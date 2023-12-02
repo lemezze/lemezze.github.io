@@ -156,8 +156,8 @@ body {
   padding: 0px 0px;
   margin: 0px auto 25px auto;
   line-height: 1 em;
-  /* light green background color */
-  background: #d3e4ff;
+  /* light background color */
+  background: #a4c3b2;
 
   /* for a background image */
   /* background: url(index/index.media/{imagename}.png) center center fixed no-repeat;
@@ -251,7 +251,7 @@ a:hover {
 }
 /* Top navigation bar */
 .topnav {
-  background-color: #ededed;
+  background-color: #cce3de;
   overflow: hidden;
 }
 
@@ -269,12 +269,12 @@ a:hover {
 
 /* Change the color of the top navigation bar items when you hover */
 .topnav a:hover {
-  background-color: #ffffff;
+  background-color: #F6FFF8;
   color: black;
 }
 
 /* Add a color to the active/current item in the top navigation bar */
 .topnav a.active {
-  background-color: #dadbdc;
-  color: white;
+  background-color: #6b9080;
+  color: #F6FFF8;
 }
