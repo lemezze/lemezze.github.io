@@ -269,12 +269,12 @@ a:hover {
 
 /* Change the color of the top navigation bar items when you hover */
 .topnav a:hover {
-  background-color: #F6FFF8;
+  background-color: #f6fff8;
   color: black;
 }
 
 /* Add a color to the active/current item in the top navigation bar */
 .topnav a.active {
   background-color: #6b9080;
-  color: #F6FFF8;
+  color: #f6fff8;
 }
